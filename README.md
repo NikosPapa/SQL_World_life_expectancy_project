@@ -7,29 +7,29 @@ This project analyzes the World Life Expectancy dataset using SQL. The work focu
 
 ## Dataset
 - An existing dataset was used for this analysis, with no additional table creation required.
-- World Life Expectancy dataset
-- Country-level life expectancy data for multiple countries from 2007 to 2022
+- World Life Expectancy dataset.
+- Country-level life expectancy data for multiple countries from 2007 to 2022.
 
 ---
 
 ## Project Scope
-- Data loading and inspection  
-- Data cleaning  
-- Exploratory data analysis (EDA)  
-- Insight generation using SQL queries  
+- Data loading and inspection.  
+- Data cleaning.
+- Exploratory data analysis (EDA).  
+- Insight generation using SQL queries.
 
 ---
 
 ## Data Cleaning
-- Checked for missing and null values  
-- Identified duplicate and inconsistent records  
-- Addressed missing data using SQL techniques  
+- Checked for missing and null values.  
+- Identified duplicate and inconsistent records. 
+- Addressed missing data using SQL techniques.  
 
 ---
 
-## Exploratory Data Analysis (EDA)
-- Analyzed life expectancy trends over time  
-- Compared life expectancy across countries  
+## Exploratory Data Analysis (EDA).
+- Analyzed life expectancy trends over time.  
+- Compared life expectancy across countries.  
 
 ---
 
