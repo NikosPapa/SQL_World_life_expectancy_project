@@ -1,7 +1,7 @@
 # SQL_World_life_expectancy_project 
 
 ## Project Overview
-This project analyzes the World Life Expectancy dataset using SQL. The work focuses on data cleaning and exploratory data analysis (EDA) to answer several questions related to global life expectancy. The analysis began by loading the dataset and checking for missing values, followed by cleaning the data and exploring trends and patterns across countries and years.
+This project analyzes the World Life Expectancy using SQL. The work focuses on data cleaning and exploratory data analysis (EDA) to answer several questions related to global life expectancy. The analysis began by loading the dataset and checking for missing values, followed by cleaning the data and exploring trends and patterns across countries and years.
 
 ---
 
